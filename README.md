@@ -16,8 +16,7 @@ Skapad av **Marie Lenvik** <br> https://github.com/M-Lenvik
    1. [Uppgiftskrav på G-nivå](#uppgiftskrav-på-g-nivå)
    2. [Uppgiftskrav på VG-nivå](#uppgiftskrav-på-vg-nivå)
 5. [Bilder](#bilder)
-6.  [ToDo Appen] (#todo-appen)
-7. [Slutbetyg](#slutbetyg)
+6. [Slutbetyg](#slutbetyg)
 
 ## 🔍 Beskrivning av sidan 📚 ToDo App i React
 
@@ -86,9 +85,17 @@ Sidan skall visa ett antal ToDo-punkter. Dessa visas på skärmen som en lista. 
 <details>
 <summary><strong>Skärmdumpar från webbplatsen</strong></summary>
 
-#### ToDo Appen
+**ToDo Appen**
 ![ToDo app med aktiva ToDo's](ToDo_2-1.png) 
 ![ToDo app där ToDo's är avklarade](ToDo_1-1.png)
+</details>
+
+<details>
+<summary><strong>Lighthouse analys</strong></summary>
+
+**Lighthouse analys**
+[Lighthouse analys desktop](Lighthouse_desktop.pdf) 
+![Lighthouse analys mobile](Lighthouse_mobile.pdf)
 </details>
 
 ## Slutbetyg
