@@ -1,0 +1,22 @@
+//src/assets/manifest.json
+
+{
+  "name": "ToDo's",
+  "short_name": "ToDo's",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "En todo-app byggd i React",
+    "icons": [
+    {
+        "src": "/ToDos-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "/ToDos-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+    ]
+}
