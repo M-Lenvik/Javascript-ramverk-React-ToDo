@@ -1,7 +1,7 @@
 {
   "name": "the-last-todos-template",
   "private": true,
-  "homepage": "https://medieinstitutet.github.io/fed24d-the-last-todos-M-Lenvik/",
+  "homepage": "https://github.com/M-Lenvik/Javascript-ramverk-React-ToDo",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
