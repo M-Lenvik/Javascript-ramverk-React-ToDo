@@ -16,9 +16,9 @@ export const ToDoApp = () => {
         }
 
         return ([
-            new ToDo(1, "Träna", 4, false),
-            new ToDo(2, "Handla", 5, false),
-            new ToDo(3, "Städa", 2, false),
+            new ToDo(1, "Träna", 2, false),
+            new ToDo(2, "Handla", 1, false),
+            new ToDo(3, "Städa", 4, false),
             new ToDo(4, "Diska", 3, false),
         ]);
 
