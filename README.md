@@ -91,6 +91,5 @@ Sidan skall visa ett antal ToDo-punkter. Dessa visas på skärmen som en lista. 
 ![ToDo app där ToDo's är avklarade](ToDo_1-1.png)
 </details>
 
-
 ## Slutbetyg
 Betyg har ännu ej getts.
