@@ -6,17 +6,18 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "description": "En todo-app byggd i React",
-    "icons": [
+  "theme_color": "#ffffff", 
+  "description": "Hantera dina uppgifter enkelt med ToDo's",
+  "icons": [
     {
-        "src": "/ToDos-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
+      "src": "/ToDos-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-        "src": "/ToDos-512x512.png",
-        "sizes": "512x512",
-        "type": "image/png"
+      "src": "/ToDos-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
-    ]
+  ]
 }

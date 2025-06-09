@@ -63,8 +63,8 @@ export const ToDoApp = () => {
     const [sortBy, setSortBy] = useState<SortBy>("priority");
     const sortedTodos = [...todos].sort((b, a) => {
         if (sortBy === "priority") return b.priority - a.priority;
-        if (sortBy === "task") return a.task.localeCompare(b.task);
-        if (sortBy === "createdAt") return new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime();
+        if (sortBy === "task") return b.task.localeCompare(a.task);
+        if (sortBy === "createdAt") return new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime();
         return 0;
     });
 
