@@ -90,7 +90,7 @@ export const ToDoApp = () => {
                         <ToDoList todos={activeTodos} onToggle={toggleTodo} onDelete={deleteTodo} />
                     </div>
                 ) : (
-                    <div className="bg-amber-500 border-4 border-amber-800 rounded-xl p-20 mt-10 mb-20 text-4xl font-caveat font-bold">
+                    <div className="bg-amber-500 border-4 border-amber-800 rounded-xl py-20 px-1 mt-10 mb-20 text-4xl font-caveat font-bold">
                         <p>Du har inga uppgifter!</p>
                         <p><GreetingDoneToDo /></p>
                     </div>
