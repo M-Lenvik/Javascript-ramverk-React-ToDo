@@ -3,7 +3,8 @@
 {
   "name": "ToDo's",
   "short_name": "ToDo's",
-  "start_url": "/",
+  "start_url": "/Javascript-ramverk-React-ToDo/",
+  "scope": "/Javascript-ramverk-React-ToDo/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff", 
