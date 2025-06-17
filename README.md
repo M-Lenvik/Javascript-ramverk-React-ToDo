@@ -16,7 +16,7 @@ Skapad av **Marie Lenvik** <br> https://github.com/M-Lenvik
    1. [Uppgiftskrav på G-nivå](#uppgiftskrav-på-g-nivå)
    2. [Uppgiftskrav på VG-nivå](#uppgiftskrav-på-vg-nivå)
 5. [Bilder](#bilder)
-6. [Slutbetyg](#slutbetyg)
+6. [Slutbetyg](#-slutbetyg)
 
 ## 🔍 Beskrivning av sidan 📚 ToDo App i React
 
@@ -98,5 +98,15 @@ Sidan skall visa ett antal ToDo-punkter. Dessa visas på skärmen som en lista. 
 ![Lighthouse analys mobile](Lighthouse_mobile.pdf)
 </details>
 
-## Slutbetyg
-Betyg har ännu ej getts.
+## 🏆 Slutbetyg
+Betyg: VG <br>
+📌 Motivering: Studentens arbete uppfyller inte bara kraven för betyget G, utan uppfyller också samtliga kriterier för betyget VG. Projektet har en hårdkodad lista med todos som kan presenteras, hanteras och markeras som klar. Dessutom tillåter applikationen användare att skapa nya todos och hantera dem med möjlighet att sortera och ändra status. State lifting används för state management, Tailwind CSS används för styling, vilket visar på god förståelse för både kodstruktur och moderna verktyg.
+
+💡 Förbättringsförslag:
+Även om applikationen redan är robust, kan följande förbättringar övervägas:
+
+Förbättra UX genom fler transitions och animationer, exempelvis vid borttagning av en todo. <br>
+Lägg till felhantering för användarinmatning i formuläret så att användaren informeras om fel. <br>
+Implementera möjligheten att redigera befintliga todos. <br>
+Små ändringar i kodstil, som att undvika onödiga kommentarer om uppenbara delar av koden vilket gör koden renare och lättare att läsa. <br>
+Bättre hantering av default-case i sorteringslogiken i sortedTodos konstanten för att säkerställa att oförutsedda sorteringskriterier inte orsakar problem.
