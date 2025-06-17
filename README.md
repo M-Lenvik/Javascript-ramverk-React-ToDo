@@ -99,7 +99,7 @@ Sidan skall visa ett antal ToDo-punkter. Dessa visas på skärmen som en lista. 
 </details>
 
 ## 🏆 Slutbetyg
-Betyg: VG <br>
+**Betyg: VG** <br>
 📌 Motivering: Studentens arbete uppfyller inte bara kraven för betyget G, utan uppfyller också samtliga kriterier för betyget VG. Projektet har en hårdkodad lista med todos som kan presenteras, hanteras och markeras som klar. Dessutom tillåter applikationen användare att skapa nya todos och hantera dem med möjlighet att sortera och ändra status. State lifting används för state management, Tailwind CSS används för styling, vilket visar på god förståelse för både kodstruktur och moderna verktyg.
 
 💡 Förbättringsförslag:
